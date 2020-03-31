@@ -1309,7 +1309,7 @@ msgstr "Getting Things Done (GTD)"
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project__label_tasks
 msgid "Gives label to tasks on project's kanban view."
-msgstr "Donne des étiquettes aux tâches sur les vue Kanaban des projets."
+msgstr "Donne des étiquettes aux tâches sur les vue Kanban des projets."
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project__sequence

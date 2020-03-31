@@ -681,7 +681,7 @@ msgstr "Basé sur"
 #: code:addons/web/static/src/xml/base.xml:250
 #, python-format
 msgid "Become Superuser"
-msgstr "Devenez un superuilisateur"
+msgstr "Devenez un superutilisateur"
 
 #. module: web
 #: code:addons/web/controllers/main.py:1538
