@@ -27,7 +27,9 @@ sAnimation.registry.visitor = sAnimation.Class.extend({
      */
     destroy: function () {
         this._super.apply(this, arguments);
-        this._$loadedContent.replaceWith(this._originalContent);
+        if (this._$loadedContent) {
+            this._$loadedContent.replaceWith(this._originalContent);
+        }
     },
 });
 });
